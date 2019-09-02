@@ -1,1 +1,40 @@
-{"project_info":{"project_id":"minimal-e817","project_number":"155600168514","name":"Minimal"},"client":[{"client_info":{"client_id":"android:com.avjindersekhon.minimal","client_type":1,"android_client_info":{"package_name":"com.avjindersekhon.minimal"}},"oauth_client":[],"api_key":[],"services":{"analytics_service":{"status":1},"cloud_messaging_service":{"status":1,"apns_config":[]},"appinvite_service":{"status":1,"other_platform_oauth_client":[]},"google_signin_service":{"status":1},"ads_service":{"status":1}}},{"client_info":{"client_id":"android:com.avjindersekhon.minimaltodo","client_type":1,"android_client_info":{"package_name":"com.avjindersekhon.minimaltodo"}},"oauth_client":[],"api_key":[],"services":{"analytics_service":{"status":2,"analytics_property":{"tracking_id":"UA-00000000-0"}},"cloud_messaging_service":{"status":1,"apns_config":[]},"appinvite_service":{"status":1,"other_platform_oauth_client":[]},"google_signin_service":{"status":1},"ads_service":{"status":1}}}],"client_info":[],"ARTIFACT_VERSION":"1"}
+{
+  "project_info": {
+    "project_number": "621275150503",
+    "firebase_url": "https://mini-todo-a9b72.firebaseio.com",
+    "project_id": "mini-todo-a9b72",
+    "storage_bucket": "mini-todo-a9b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621275150503:android:cd4c882a6246b2e3",
+        "android_client_info": {
+          "package_name": "com.avjindersinghsekhon.minimaltodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621275150503-k1jor71mvphfj33n40gka9ftl1b7hm83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdxyvFPO5S1EQAFouru82pfxvSaFWEQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621275150503-k1jor71mvphfj33n40gka9ftl1b7hm83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
