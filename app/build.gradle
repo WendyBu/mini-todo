@@ -32,6 +32,8 @@ android {
 }
 
 dependencies {
+    // add the Firebase SDK for Google Analytics
+    implementation 'com.google.firebase:firebase-analytics:17.0.1'
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.google.android.gms:play-services-analytics:7.8.0'
     implementation 'uk.co.chrisjenx:calligraphy:2.1.0'
